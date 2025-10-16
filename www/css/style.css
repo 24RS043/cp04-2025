@@ -1,9 +1,9 @@
 /**/
     #body  {
-        background-color: skyblue;
+        background-color: #97d2e9;
     }
     #minuteStr {
-        color: #ff0000;
+        color: #FF0000;
         font-size: 20px;
         text-align: left;
         position:absolute; top:210px; 
